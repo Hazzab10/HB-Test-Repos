@@ -1,0 +1,14 @@
+# Example positions file for RNS Announcement Checker
+# Format: SYMBOL,Company Name (or just SYMBOL)
+# Lines starting with # are comments
+
+VOD,Vodafone Group
+LLOY,Lloyds Banking Group
+BP,BP plc
+GSK,GlaxoSmithKline
+HSBA,HSBC Holdings
+BARC,Barclays
+AZN,AstraZeneca
+RIO,Rio Tinto
+SHEL,Shell
+ULVR,Unilever
